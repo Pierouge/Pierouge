@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Pierouge
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning GDScript, Arduino and Godot Shaderscript
-- 💞️ I’m looking to collaborate on some Gamejams
-- 📫 How to reach me : @E-Coqdu42#2411 on discord
+Segmentation fault: core dumped
