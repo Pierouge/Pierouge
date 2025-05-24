@@ -29,6 +29,8 @@ I’m an electronics & ICT enthusiast who loves tinkering with both hardware and
 ![ASM](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ## 🌍 Human Languages
 
