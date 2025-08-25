@@ -15,7 +15,7 @@ I’m an electronics & ICT enthusiast who loves tinkering with both hardware and
   - Made multiple discord bots using Python
 
 - **Current Project:**  
-  - Working on [**OpenChatRoom**](https://github.com/Pierouge/openchatroom-front): an open-source, server-based chatroom system  
+  - Working on [**OpenChatRoom**](https://github.com/Pierouge/openchatroom-server): an open-source, server-based chatroom system  
     (ASP.NET server + web app)
 
 ## 💻 Computer Languages
